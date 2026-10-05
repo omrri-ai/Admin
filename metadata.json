@@ -1,0 +1,6 @@
+{
+  "name": "AI Studio App Builder Companion",
+  "description": "Bilingual (Arabic/English) companion and sandbox for Google AI Studio developers. Create prompt blueprints, select frontend skins, and preview live functional applications with real Gemini-3.8-flash execution.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
